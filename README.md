@@ -1,20 +1,18 @@
 <h1 align="center">Rao Faizan </h1>
 <h3 align="center">Data Analyst</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mfaizan01-code&label=Profile%20views&color=0e75b6&style=flat" alt="mfaizan01-code" /> </p>
 
-<p align="left"> <a href="https://twitter.com/rao_faizan1" target="blank"><img src="https://img.shields.io/twitter/follow/rao_faizan1?logo=twitter&style=for-the-badge" alt="rao_faizan1" /></a> </p>
 
 - 💬 **Ask me about**
--  I'm an entry-level Data Analyst with a year of experience in data analytics and reporting. Skilled in Excel, SQL, and Power BI, I turn data into insights that drive decision-making. My background in Mathematics enhances my analytical approach, combining critical thinking with data-driven solutions. I’m eager to contribute to a dynamic team, continue learning, and grow in the field of data analysis. Skills: Data Entry, Data Analysis, Reporting Tools: MS Excel, SQL, Power BI
+-                    I'm an entry-level Data Analyst with a year of experience in data analytics and reporting. Skilled in Excel, SQL, and Power BI, I turn data into insights that drive decision-making. My background in Mathematics enhances my analytical approach, combining critical thinking with data-driven solutions. I’m eager to contribute to a dynamic team, continue learning, and grow in the field of data analysis. Skills: Data Entry, Data Analysis, Reporting Tools: MS Excel, SQL, Power BI
 -  _________________________________________________________________________________________________________________________________________________________________________
 
 - **Education**
--  Bachelor of Science in Mathematics Sep 2020 - Jun 2024
--  Islamia University Bahawalpur
+-    Bachelor of Science in Mathematics Sep 2020 - Jun 2024
+-    Islamia University Bahawalpur
 ____________________________________________________________________________________________________________________________________________________________________________
 - - **Core Skills**
-  -   Basic Data Analysis – Understanding of data collection, cleaning, and basic statistical techniques.
+    Basic Data Analysis – Understanding of data collection, cleaning, and basic statistical techniques.
 -   • Excel Proficiency – Strong skills in Excel for data manipulation, pivot tables, and basic visualizations.
 -   • SQL Fundamentals – Basic ability to write queries for extracting and managing data.
 -   • Data Visualization – Experience creating simple charts and graphs using Excel or Power BI.
@@ -38,15 +36,15 @@ ________________________________________________________________________________
 ___________________________________________________________________________________________________________________________________________________________________________
 - - **Certifications**
   - • Data Analytics in Excel 3 rd Jul 2014
-  -  **Platform** Simplilearn
+  -   **Platform** Simplilearn
   - • Business Analytics with Excel 3rd Jul 2024
-  -  **Platform** Simplilearn
+  -   **Platform** Simplilearn
   - • Power BI for Beginners 8 th Jul 2024
-  -  **Platform** Simplilearn
+  -   **Platform** Simplilearn
   - • Data Analytics and Business Intelligence
-  - **Platform** Digiskills
+  -   **Platform** Digiskills
   - • Communication and Soft Skills
-  - **Platform** Digiskills
+  -   **Platform** Digiskills
 __________________________________________________________________________________________________________________________________________________________________________
 
 - 📫 How to reach me **raofaizan424@gmail.com**
