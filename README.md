@@ -3,9 +3,13 @@
 
 **Ask me about**
 
+I'm an entry-level Data Analyst with a year of experience in data analytics and reporting. Skilled in Excel, SQL, and Power BI, I turn data into insights that drive decision-making. My background in Mathematics enhances my analytical approach, combining critical thinking with data-driven solutions. I’m eager to contribute to a dynamic team, continue learning, and grow in the field of data analysis.
 
-                     I'm an entry-level Data Analyst with a year of experience in data analytics and reporting. Skilled in Excel, SQL, and Power BI, zzI turn data into insights that drive decision-making. My background in Mathematics enhances my analytical approach, combining critical thinking with data-driven solutions. I’m eager to contribute to a dynamic team, continue learning, and grow in the field of data analysis. Skills: Data Entry, Data Analysis, Reporting Tools: MS Excel, SQL, Power BI
-                     
+Skills: Data Entry, Data Analysis, Reporting
+Tools: MS Excel, SQL, Power BI
+
+
+                    
                      
   _________________________________________________________________________________________________________________________________________________________________________
   
@@ -17,8 +21,8 @@
 ____________________________________________________________________________________________________________________________________________________________________________
 
  **Core Skills**
-
-    Basic Data Analysis – Understanding of data collection, cleaning, and basic statistical techniques.
+ 
+ Basic Data Analysis – Understanding of data collection, cleaning, and basic statistical techniques.
     
    • Excel Proficiency – Strong skills in Excel for data manipulation, pivot tables, and basic visualizations.
    
@@ -35,13 +39,13 @@ ________________________________________________________________________________
  
 Virenda Store Sales & Inventory Dashboard Tools: Excel (Pivot Tables, Charts, Conditional Formatting)
 
-     • Developed an interactive Excel dashboard to track sales trends and manage inventory levels for Virenda Store.
+  • Developed an interactive Excel dashboard to track sales trends and manage inventory levels for Virenda Store.
      
-     • Automated sales reports using pivot tables and visualized key metrics with dynamic charts.
+  • Automated sales reports using pivot tables and visualized key metrics with dynamic charts.
 
-     • Utilized conditional formatting to highlight low-stock items, enhancing inventory management.
+  • Utilized conditional formatting to highlight low-stock items, enhancing inventory management.
      
-     • Improved decision-making by providing real-time insights into sales performance and stock levels.
+   • Improved decision-making by providing real-time insights into sales performance and stock levels.
   ________________________________________________________________________________________________________________________________________________________________________
 
 **Exprience** 
@@ -59,23 +63,23 @@ ________________________________________________________________________________
 
    • Data Analytics in Excel 3 rd Jul 2014
    
-      **Platform** Simplilearn
+  **Platform** Simplilearn
       
    • Business Analytics with Excel 3rd Jul 2024
    
-     **Platform** Simplilearn
+  **Platform** Simplilearn
      
    • Power BI for Beginners 8 th Jul 2024
    
-      **Platform** Simplilearn
+  **Platform** Simplilearn
       
    • Data Analytics and Business Intelligence
    
-     **Platform** Digiskills
+  **Platform** Digiskills
      
    • Communication and Soft Skills
    
-      **Platform** Digiskills
+  **Platform** Digiskills
 __________________________________________________________________________________________________________________________________________________________________________
 
   How to reach me **raofaizan424@gmail.com**
